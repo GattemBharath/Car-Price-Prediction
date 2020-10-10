@@ -1,6 +1,6 @@
 # Car-Price-Prediction:
 ## Table of Content
-- Demo
+- [Demo](https://github.com/GattemBharath/Car-Price-Prediction/Demo)
 - Overview
 - Installation
 - Deployement on Heroku
@@ -8,7 +8,9 @@
 - Technologies Used
 - Future Scope
 
-https://predict-carprice.herokuapp.com/
+Demo
 
-![alt text](https://raw.githubusercontent.com/GattemBharath/Car-Price-Prediction/Master/templates/to/1.png)
-![alt text](https://raw.githubusercontent.com/GattemBharath/Car-Price-Prediction/Master/templates/to/2.png)
+Link: https://predict-carprice.herokuapp.com/
+
+![1](https://user-images.githubusercontent.com/53399475/95653811-0de2fe00-0b19-11eb-9ac2-ef2ff1a9f1d7.png)
+![img2](https://user-images.githubusercontent.com/53399475/95656299-0f1d2680-0b2b-11eb-839e-fded17033eb0.png)

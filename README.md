@@ -16,7 +16,8 @@ Link: [https://predict-carprice.herokuapp.com/](https://predict-carprice.herokua
 
 ![1](https://user-images.githubusercontent.com/53399475/95653811-0de2fe00-0b19-11eb-9ac2-ef2ff1a9f1d7.png)
 
-![img2](https://user-images.githubusercontent.com/53399475/95656299-0f1d2680-0b2b-11eb-839e-fded17033eb0.png)
+![img3](https://user-images.githubusercontent.com/53399475/95656738-f5c9a980-0b2d-11eb-9ee7-97eb184c1ee3.png)
+
 
 ## Overview
 This is a Flask web app which predicts price of a car.
